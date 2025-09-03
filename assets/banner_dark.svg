@@ -14,6 +14,6 @@
   <g font-family="Segoe UI, Arial, sans-serif" fill="#EAF1FF">
     <text x="60" y="120" font-size="46" font-weight="700">조진경의 Portfolio</text>
     <!-- 요청대로 Robotics 제거 -->
-    <text x="60" y="165" font-size="22" opacity="0.9">AI · Web — susie1214</text>
+    <text x="60" y="165" font-size="22" opacity="0.9">AI Embedded — susie1214</text>
   </g>
 </svg>
