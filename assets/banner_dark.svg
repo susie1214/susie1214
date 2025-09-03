@@ -1,0 +1,19 @@
+<!-- assets/banner_dark.svg -->
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1a3a"/>
+      <stop offset="100%" stop-color="#0e1e45"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#g)"/>
+  <path d="M0,200 C200,260 400,140 600,200 C800,260 1000,140 1200,200 L1200,300 L0,300 Z"
+        fill="#091330" opacity="0.8"/>
+  <path d="M0,210 C220,270 420,160 620,210 C820,260 1000,170 1200,210 L1200,300 L0,300 Z"
+        fill="#1d3770" opacity="0.35"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#EAF1FF">
+    <text x="60" y="120" font-size="46" font-weight="700">조진경의 Portfolio</text>
+    <!-- 요청대로 Robotics 제거 -->
+    <text x="60" y="165" font-size="22" opacity="0.9">AI · Web — susie1214</text>
+  </g>
+</svg>
