@@ -27,8 +27,6 @@
       <h3>프레임워크 & 라이브러리</h3>
       <p>
         <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
       </p>
     </td>
   </tr>
