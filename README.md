@@ -57,14 +57,14 @@
   <tr>
     <td width="30%">
       <!-- 미리보기 GIF가 있으면 assets/mario.gif 로 추가 -->
-      <img src="assets/mario.gif" alt="Mario demo" style="border-radius:12px; width:100%; max-width:260px;">
+      <img src="assets/logo.png" alt="delta page" style="border-radius:12px; width:100%; max-width:260px;">
     </td>
     <td>
-      <h3>Mario — Pixel Platformer</h3>
-      <p>HTML/CSS/JS(jQuery)로 만든 소형 웹 게임. 코인/스타/굼바/파이프/라이프 UI/게임오버 등 기본 요소 구현.</p>
+      <h3>ICT Project</h3>
+      <p>실시간 멀티모델 분류 기반 델타 로봇 피킹 시스템</p>
       <p>
-        <a href="https://github.com/susie1214/mario">
-          <img src="https://img.shields.io/badge/Repo-susie1214%2Fmario-181717?logo=github&logoColor=white" />
+        <a href="https://github.com/susie1214/ICT_project">
+          <img src="https://img.shields.io/badge/Repo-susie1214%2F?logo=github&logoColor=white" />
         </a>
         <!-- 데모를 깃헙 페이지에 배포하면 아래 링크 주석 해제 -->
         <!-- <a href="https://susie1214.github.io/mario/">
