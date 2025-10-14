@@ -117,7 +117,7 @@ C++ myString 클래스 계층, Geometry Dash 스타일 HTML 게임, OpenCV 학�
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=susie1214&show_icons=true&rank_icon=percentile&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=susie1214&hide_border=true" alt="streak"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=susie1214&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
