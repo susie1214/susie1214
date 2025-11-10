@@ -12,7 +12,8 @@ AI · Vision · Data Engineer — building <b>real-world</b> systems that talk, 
 <p align="center">
   <a href="https://github.com/susie1214?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open-blue?style=flat-square"></a>
   <a href="mailto:jincho.ai.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=susie1214&style=flat-square&color=brightgreen"/>
+  <a href="https://blog.naver.com/hahaha067"><img alt="Blog" src="https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=susie1214&style=flat-square&color=brightgreen"/> 
 </p>
 
 ---
