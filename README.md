@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Jin-keong Cho (조진경) 👋</h1>
 
 <p align="center">
-AI · Robotics · Data Engineer — building <b>real-world</b> systems that talk, see, and act.
+AI · Vision · Data Engineer — building <b>real-world</b> systems that talk, see, and act.
 </p>
 
 <p align="center">
