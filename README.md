@@ -1,14 +1,18 @@
 <!-- ===================== -->
-<!-- Profile Banner -->
+<!-- URL Banner (mint-yellow, no-break) -->
 <!-- ===================== -->
 <p align="center">
-  <img src="assets/banner.png" alt="PersonaJK banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1B2,50:FFF275&height=140&section=header&text=Jin-kyung%20Cho&fontSize=38&fontColor=111827&fontAlignY=35" />
 </p>
 
-<h1 align="center">안녕하세요, 조진경 (Jin-kyung Cho) 입니다</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&center=true&vCenter=true&width=760&lines=Building+useful+AI+systems;Persona-AI+%7C+Streaming+Meeting+Intelligence;Hybrid+RAG+%7C+QLoRA+%7C+Speaker+Persona;Robotics+%7C+Vision+%7C+Data+Engineering" />
+</p>
+
+<h2 align="center">안녕하세요, 조진경 (Jin-kyung Cho) 입니다</h2>
 
 <p align="center">
-  <b>AI · Robotics · Data · App</b> 를 연결해<br/>
+  <b>AI · Robotics · Data · App</b>를 연결해<br/>
   실제로 동작하는 문제 해결형 AI 시스템을 구현하는 엔지니어입니다.
 </p>
 
@@ -60,10 +64,10 @@
 ## 🏗️ Featured Projects
 
 ### 1) Persona-AI — 실시간 회의 비서
-**PyQt · Whisper · pyannote · Hybrid RAG · QLoRA**
+**Streaming Meeting Intelligence · Hybrid RAG · QLoRA**
 
 - 실시간 회의 음성 스트리밍 기반 **화자 분리 + STT**
-- 화자별 발화 기록을 활용한 **개인화 페르소나 생성**
+- 화자별 발화 기록을 활용한 **동적 페르소나 모델링**
 - 요약, Action Items, 일정 자동화 및 질의응답 지원
 - Tech: PyQt, Whisper, pyannote.audio, LangChain(RAG), QLoRA, FastAPI, SQLite  
 - Repo: https://github.com/susie1214/Persona-AI
@@ -91,34 +95,4 @@
 ---
 
 ## 📈 Stats & Activity
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=susie1214&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=00D1B2&text_color=1F2937&icon_color=00D1B2" />
-
-  <!-- Streak -->
-  <img height="160"
-    src="https://streak-stats.demolab.com/?user=susie1214&hide_border=true&background=00000000&ring=00D1B2&fire=FFF275&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=00D1B2&sideLabels=00D1B2&dates=6B7280" />
-
-  <!-- Top Languages -->
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=susie1214&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&title_color=00D1B2&text_color=1F2937" />
-</p>
-
----
-
-## 🧭 Current Focus (2025)
-- **Persona-AI**: 화자 페르소나 정밀화, 장기 컨텍스트 RAG, 결정 보조 AI
-- **Robotics + Vision**: YOLO 성능 개선, Edge 가속, 산업 적용 안정성
-- **AI 서비스화**: 재현 가능한 파이프라인, 문서화, 연구·실무 연결
-
----
-
-## 🤝 Contact
-- Email: **susie121428@gmail.com**
-- GitHub: **@susie1214**
-- Blog: **m.blog.naver.com/hahaha067**
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=susie1214&style=flat" alt="profile views"/>
-</p>
+<p align="cente
