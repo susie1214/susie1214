@@ -40,6 +40,12 @@ pids/
 frontend/dist/
 backend-python/*.pyc
 
+# Model files (large binary files)
+*.gguf
+*.bin
+*.safetensors
+models/
+
 # OS specific
 .DS_Store
 .DS_Store?
